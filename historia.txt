@@ -2,4 +2,4 @@ Esta es la historia de Pacho.
 
 Pacho nació en Bogotá en 1996, ama Colombia pero quiere viajar.
 
-Escribo esta párrafo para ver cambios en Git.
+Escribo este párrafo para ver cambios en Git.
